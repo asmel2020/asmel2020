@@ -6,7 +6,7 @@
 ### <div align="center">I'm Danny, blockchain developer and crypto ecosystem enthusiast 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Rhizom](https://rhizom.me/)  
   
 
 - 🌱 I’m the creator of  Hardhat plugin [hardhat-openzeppelin-defender](https://www.npmjs.com/package/hardhat-openzeppelin-defender)  
