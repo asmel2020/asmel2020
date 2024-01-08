@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Danny, blockchain developer and crypto ecosystem enthusiast 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Danny, Full-Stack Developer and Blockchain Developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Rhizom](https://rhizom.me/)  
-  
-
-- 🌱 I’m the creator of  Hardhat plugin [hardhat-openzeppelin-defender](https://www.npmjs.com/package/hardhat-openzeppelin-defender)  
+- 🌱 I’m the creator of  NestJs Create App [NestJs Create App](https://github.com/asmel2020/create-napp-app)  
   
 
 - 🔭 I’m an active member of the <a href="https://forum.openzeppelin.com/u/asmel/summary" target="_blank">openzeppelin  community.
@@ -19,7 +16,35 @@
 
 <br/>  
 
+### Work Experience
 
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEAU0LfaSRSzA/company-logo_200_200/0/1673306997632/rhizomme_logo?e=1712793600&v=beta&t=Ao1wUosZN-e008UL2QGw0dWWgMfDVJttYPCHCWNcJSg"/>](https://www.linkedin.com/company/rhizomme/)
+
+**Software Engineer** \
+[**Rhizom**](https://plateaus.network/) • Full-time \
+Linguagens & Tecnologias: `TypeScript`, `NestJS`, `nodejs`, `nextjs`, `Solidity`, `EtherJs`,\
+Projetos em destaque: [Plateaus](https://plateaus.network/), [Hypha](https://hypha.rhizom.me/login)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEZWidr1xz9Lw/company-logo_200_200/0/1660764088966/paymho_app_logo?e=1712793600&v=beta&t=Gg_d05GM-nWrw9yjuZsZdBw5eVY04Juur7ukcQAy4jU"/>](https://rocketseat.com.br/)
+
+**Software Engineer** \
+[**PayMHO**](https://paymho.com/) • Full-time \
+Linguagens & Tecnologias:  `TypeScript`, `NestJS`, `nodejs`, `nextjs`, `Solidity`, `EtherJs`\
+Projetos em destaque: [App](https://paymho.com/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C560BAQHWHYRvMwp1cw/company-logo_200_200/0/1647028909719/openzeppelin_logo?e=1712793600&v=beta&t=ntIHa45gC-o8PmHovRpYx_qh-a4w69PNp8AB8Co4AyE"/>](https://www.openzeppelin.com/)
+
+**Support for the Openzeppelin Community** \
+[**Openzeppelin**](https://www.openzeppelin.com/) • Contract \
+Linguagens & Tecnologias: `Solidity`, `TypeScript`, `hardhat`, `Openzeppelin`, `EtherJs` \
+<br/>
+<br/>
+
+Please review my [LinkedIn](https://www.linkedin.com/in/danny-gonzalez-974763219/) for a more detailed description of my work experience, education, and certification..
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -27,18 +52,20 @@
 
 ### Programming Languages  
 <div align="center">  
-<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Java" height="50" /></a> 
 </div>  
 
 
 
 ### FrontEnd  
 <div align="center">  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="React" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="HTML5" height="50" /></a>    
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 </div>
 
@@ -49,6 +76,8 @@
 ### Backend  
 <div align="center">  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/pt-br/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt="Java" height="50" /></a>
+ 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
 </div>  
@@ -134,4 +163,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
