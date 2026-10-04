@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://d.dannygalicia.dev/"><img src="https://img.shields.io/badge/Portfolio-d.dannygalicia.dev-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/danny-gonzalez-974763219/"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/danny-galicia-974763219/"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danny.jesus.gonzalez.galicia@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -104,7 +104,7 @@ Lately I've been focused on the **AI & agentic** space: building **MCP (Model Co
 
 <a href="https://github.com/asmel2020" target="_blank"><img src="https://img.shields.io/badge/GitHub-asmel2020-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://twitter.com/djgg2019" target="_blank"><img src="https://img.shields.io/badge/Twitter-djgg2019-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/danny-gonzalez-974763219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/danny-galicia-974763219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://d.dannygalicia.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d.dannygalicia.dev-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
@@ -184,7 +184,7 @@ Trabajo principalmente con **TypeScript** (Node.js/Bun, Koa, Express, NestJS en 
 
 <a href="https://github.com/asmel2020" target="_blank"><img src="https://img.shields.io/badge/GitHub-asmel2020-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://twitter.com/djgg2019" target="_blank"><img src="https://img.shields.io/badge/Twitter-djgg2019-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/danny-gonzalez-974763219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/danny-galicia-974763219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danny%20Gonz%C3%A1lez-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
