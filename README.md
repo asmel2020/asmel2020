@@ -9,7 +9,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Brazil%20%2F%20Rond%C3%B4nia-2ea44f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=asmel2020&style=flat-square&color=F97316&label=Profile%20views" alt="Profile views" />
 </p>
 
