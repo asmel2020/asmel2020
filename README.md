@@ -22,8 +22,11 @@ Full Stack Software Engineer with **4+ years** building web products and platfor
 
 I mainly work with **TypeScript** (Node.js/Bun, Koa, Express, NestJS on the backend, React/Next.js on the frontend, and React Native for mobile), creating modern interfaces with design systems. Strong experience in APIs, data modeling, integrations, and testing (unit/E2E). On the infrastructure side: Docker, CI/CD, and cloud (AWS).
 
+Lately I've been focused on the **AI & agentic** space: building **MCP (Model Context Protocol) servers**, shipping serverless products on the **Cloudflare** edge ecosystem (Workers, D1, Drizzle, Hono, R2, KV, Durable Objects, Workers AI), and orchestrating fleets of coding agents with **Orca ADE**.
+
 - 🔭 Creator of **NestJS Create App** → [create-napp-app](https://github.com/asmel2020/create-napp-app)
 - 🧩 Author of **decoder-qr-pago-movil** → [npm package](https://www.npmjs.com/package/decoder-qr-pago-movil)
+- 🤖 I build **MCP servers**, **Cloudflare** edge apps and agent tooling
 - 🌱 Active member of the [OpenZeppelin community](https://forum.openzeppelin.com/u/asmel/summary)
 - 📫 Reach me at **danny.jesus.gonzalez.galicia@gmail.com**
 
@@ -71,9 +74,18 @@ I mainly work with **TypeScript** (Node.js/Bun, Koa, Express, NestJS on the back
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,express,react,nextjs,tailwind,postgres,mongodb,mysql,docker,aws,git,github,linux,solidity&perline=9" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,express,react,nextjs,tailwind,prisma,postgres,mongodb,mysql,docker,aws,cloudflare,workers,git,github,linux,solidity&perline=7" alt="Tech Stack" />
 
 </div>
+
+---
+
+### 🤖 AI & Agentic Development
+
+- **MCP (Model Context Protocol)** — I design and build MCP servers that expose tools and resources to AI agents, including **remote MCP servers running on Cloudflare Workers**.
+- **Cloudflare edge ecosystem** — Workers, D1 + Drizzle, Hono, R2, KV, Durable Objects, Workers AI, Email Routing/Sending, Wrangler, and cron/Workflows for serverless products at the edge.
+- **Orca ADE (Agent Development Environment)** — I orchestrate fleets of parallel CLI coding agents in isolated **git worktrees**, with diff review, CLI, MCP, and automations.
+- **Agent Skills** — I ship portable, installable agent skills alongside my libraries (e.g. [`route-forge`](https://github.com/asmel2020/route-forge)).
 
 ---
 
@@ -109,8 +121,11 @@ Ingeniero de Software Full Stack con **más de 4 años** construyendo productos 
 
 Trabajo principalmente con **TypeScript** (Node.js/Bun, Koa, Express, NestJS en backend, React/Next.js en frontend y React Native en mobile), creando interfaces modernas con design systems. Tengo experiencia fuerte en APIs, modelado de datos, integraciones y pruebas (unit/E2E). En infraestructura trabajo con Docker, CI/CD y cloud (AWS).
 
+Últimamente me enfoco en el espacio **AI & agentic**: construyo **servidores MCP (Model Context Protocol)**, productos serverless en el ecosistema edge de **Cloudflare** (Workers, D1, Drizzle, Hono, R2, KV, Durable Objects, Workers AI) y orquesto flotas de agentes de código con **Orca ADE**.
+
 - 🔭 Creador de **NestJS Create App** → [create-napp-app](https://github.com/asmel2020/create-napp-app)
 - 🧩 Autor de **decoder-qr-pago-movil** → [paquete npm](https://www.npmjs.com/package/decoder-qr-pago-movil)
+- 🤖 Construyo **servidores MCP**, apps edge en **Cloudflare** y tooling para agentes
 - 🌱 Miembro activo de la [comunidad OpenZeppelin](https://forum.openzeppelin.com/u/asmel/summary)
 - 📫 Contáctame en **danny.jesus.gonzalez.galicia@gmail.com**
 
@@ -151,6 +166,15 @@ Trabajo principalmente con **TypeScript** (Node.js/Bun, Koa, Express, NestJS en 
 **📱 decoder-qr-pago-movil** — [npm](https://www.npmjs.com/package/decoder-qr-pago-movil) · [GitHub](https://github.com/asmel2020/decoder-qr-pago-movil)
 > Librería TypeScript para decodificar códigos QR de **Pago Móvil (Suiche 7B)** · compatible con **más de 58 bancos**
 - Extrae los datos del beneficiario (cédula, teléfono, banco, nombre). Funciona en Node.js, Bun y navegador.
+
+---
+
+### 🤖 AI & Desarrollo con agentes
+
+- **MCP (Model Context Protocol)** — Diseño y construyo servidores MCP que exponen herramientas y recursos a agentes de IA, incluyendo **servidores MCP remotos en Cloudflare Workers**.
+- **Ecosistema edge de Cloudflare** — Workers, D1 + Drizzle, Hono, R2, KV, Durable Objects, Workers AI, Email Routing/Sending, Wrangler y cron/Workflows para productos serverless en el edge.
+- **Orca ADE (Agent Development Environment)** — Orquesto flotas de agentes CLI en paralelo en **git worktrees** aislados, con revisión de diffs, CLI, MCP y automatizaciones.
+- **Agent Skills** — Publico skills portables e instalables junto a mis librerías (p. ej. [`route-forge`](https://github.com/asmel2020/route-forge)).
 
 ---
 
